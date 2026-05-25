@@ -225,6 +225,9 @@ footer{
     .hero-text h1{
         font-size: 2rem;
     }
+    .hero-text h2{
+        text-align: center;
+    }
     .menu{
         gap: 15px;
         flex-wrap: wrap;
